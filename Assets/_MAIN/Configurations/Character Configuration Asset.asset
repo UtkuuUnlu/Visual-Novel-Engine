@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b9c8bcb6823a7948a1a4f5a3d823993, type: 3}
+  m_Name: Character Configuration Asset
+  m_EditorClassIdentifier: 
+  characters:
+  - name: Stella
+    alias: s
+    characterType: 1
+    nameColor: {r: 1, g: 1, b: 1, a: 0}
+    dialogueColor: {r: 1, g: 1, b: 1, a: 0}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - name: Elen
+    alias: e
+    characterType: 0
+    nameColor: {r: 0.8392157, g: 0.1843137, b: 0.6521815, a: 0}
+    dialogueColor: {r: 1, g: 0.5732645, b: 0.23113209, a: 0}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - name: Benjamin
+    alias: ben
+    characterType: 0
+    nameColor: {r: 0.8396226, g: 0.18614274, b: 0.18614274, a: 0}
+    dialogueColor: {r: 0.41226816, g: 0.7075472, b: 0.31038624, a: 0}
+    nameFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    dialogueFont: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
