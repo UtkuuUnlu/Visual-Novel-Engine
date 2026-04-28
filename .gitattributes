@@ -1,0 +1,8 @@
+# Tell GitHub to treat these files as assets/generated rather than primary code
+*.shader linguist-vendored
+*.hlsl linguist-vendored
+*.cginc linguist-vendored
+*.shadergraph linguist-vendored
+*.shadersubgraph linguist-vendored
+*.asset linguist-vendored
+*.mat linguist-vendored
